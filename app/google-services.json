@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540907025623",
+    "firebase_url": "https://tranthanhquang-c25b8.firebaseio.com",
+    "project_id": "tranthanhquang-c25b8",
+    "storage_bucket": "tranthanhquang-c25b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540907025623:android:940033253075c546",
+        "android_client_info": {
+          "package_name": "com.example.todowithdrawerlayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540907025623-ft85nbhep0kllf9sdldld7pkskj5b3lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf4uX4Ubd51vGC1M0XRU7J6jtnraqjQUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540907025623-ft85nbhep0kllf9sdldld7pkskj5b3lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
